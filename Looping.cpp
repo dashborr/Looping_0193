@@ -34,3 +34,6 @@ cout<<"PERULANGAN DO...WHILE"<<endl;
     cout<<"Bilangan acak do-while yang terakhir ="<<x<<endl;
     cout<<endl;
 }
+
+#include <iostream>
+using namespace std;

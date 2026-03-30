@@ -12,4 +12,6 @@ void input(){
     cout << "2. Teknik Elektro" << endl;
     cout << "3. Sistem Informasi" << endl;
     cout << "----------------------------------" << endl;
+    cout << "Masukkan kode jurusan (1-3): ";
+    cin >> kodeJurusan;
 }

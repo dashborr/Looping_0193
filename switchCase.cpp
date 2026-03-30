@@ -38,5 +38,5 @@ void pilihanJurusan(){
 }
 
 void output(){
-    
+     cout << "\n=== HASIL SELEKSI ===" << endl;
 }

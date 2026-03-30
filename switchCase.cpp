@@ -46,4 +46,5 @@ void output(){
 
 int main(){
     input();
+    pilihanJurusan();
 }

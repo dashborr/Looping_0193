@@ -11,3 +11,5 @@ int main(){
 cout<<endl;
 
 srand(time(0));
+
+ cout<<"PERULANGAN WHILE"<<endl;

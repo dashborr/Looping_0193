@@ -36,3 +36,7 @@ void pilihanJurusan(){
      }
     
 }
+
+void output(){
+    
+}

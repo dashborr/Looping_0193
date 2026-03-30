@@ -67,4 +67,12 @@ cout<<"PERULANGAN DO...WHILE"<<endl;
         status = "Tidak lulus";
 
     cout<<"Status kelulusan = "<<status<<", dengan nilai rata-rata = "<<rerata<<endl;
+
+    float nilB, nilM, rerata;
+    string status;
+
+    cout<<"Masukkan nilai Matematika = ";
+    cin>>nilM;
+    cout<<"Masukkan nilai Bahasa Inggris = ";
+    cin>>nilB;
 }

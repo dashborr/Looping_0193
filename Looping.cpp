@@ -20,5 +20,8 @@ srand(time(0));
         x = rand()%10;
     }
 
- cout<<"Bilangan acak while yang terakhir ="<<x<<endl;
-    cout<<endl;    
+cout<<"Bilangan acak while yang terakhir ="<<x<<endl;
+cout<<endl;
+
+cout<<"PERULANGAN DO...WHILE"<<endl;
+    x = 1 + rand()%10;
